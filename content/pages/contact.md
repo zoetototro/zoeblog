@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: ようこそ！
-featuredImage: https://ucarecdn.com/0ad15244-4fed-4a2c-a715-8f97c1c1575c/
+featuredImage: https://ucarecdn.com/321be091-241d-487a-a8c5-2c553137fec1/
 subtitle: オラオラオラオロアロあロラ
 address: 404 James St, Burleigh Heads QLD 4220
 phone: 0987 123 456
