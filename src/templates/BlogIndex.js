@@ -26,6 +26,7 @@ export const byDate = posts => {
  * @param {title} string
  * @param {contentType} string
  */
+
 export const byCategory = (posts, title, contentType) => {
   const isCategory = contentType === 'postCategories'
   const byCategory = post =>
@@ -111,6 +112,7 @@ const BlogIndex = ({ data: { page, posts, postCategories } }) => (
         ...post.node.fields
       }))}
     />
+    <div>hello</div>
   </Layout>
 )
 
