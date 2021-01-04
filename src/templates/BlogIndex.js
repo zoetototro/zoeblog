@@ -112,7 +112,6 @@ const BlogIndex = ({ data: { page, posts, postCategories } }) => (
         ...post.node.fields
       }))}
     />
-    <div>hello</div>
   </Layout>
 )
 
