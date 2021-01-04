@@ -7,7 +7,10 @@ subtitle: お仕事やお遊びのお誘いはこちらから
 address: オンライン
 phone: "111"
 email: akitoshi.kakizoe@gmail.com
-locations: []
+locations:
+  - mapLink: sss
+    lat: sss
+    lng: sss
 meta:
   description: This is a meta description.
   title: Contact Page
