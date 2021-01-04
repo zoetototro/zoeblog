@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ""
-title: ぞえぞえブートキャンプにようこそ！
-featuredImage: https://ucarecdn.com/2259fcd4-1d0d-4f90-b442-7c58c36f1e2f/
-subtitle: さぁ！ダンスの準備はいいかい？？？
+title: .
+featuredImage: https://ucarecdn.com/2997b6b0-8c31-45f1-9a5e-0549f8ac3f59/
+subtitle: .
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
