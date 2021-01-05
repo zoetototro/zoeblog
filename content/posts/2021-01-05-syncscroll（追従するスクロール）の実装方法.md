@@ -3,6 +3,7 @@ template: SinglePost
 title: syncscroll（追従するスクロール）の実装方法
 status: Published
 date: 2021-01-05
+featuredImage: https://ucarecdn.com/69827c86-59e1-44e7-8172-a6946aba2e43/
 excerpt: どうも、今回はsyncscrollの実装方法を紹介しようと思います。
 ---
 どうも、今回はsyncscrollの実装方法とハマりどころを軽く解説しようと思います。
